@@ -1,0 +1,9 @@
+Acme Tech Remote Work Policy
+
+Employees may work remotely up to 3 days per week. The remaining 2 days must be spent in the office, and Tuesday and Thursday are mandatory office days.
+
+New joiners must work from the office for their first 30 days for onboarding. After this, they become eligible for the hybrid schedule.
+
+Employees working remotely must be available on Slack between 10 AM and 4 PM local time. A company VPN is mandatory when accessing internal systems.
+
+Employees can request a fully remote arrangement for up to 60 days per year for medical or family reasons. This needs approval from both the manager and HR.

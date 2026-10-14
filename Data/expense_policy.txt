@@ -1,0 +1,11 @@
+Acme Tech Expense Reimbursement Policy
+
+Employees must submit expense claims within 30 days of incurring the expense. Claims submitted later than 30 days will be rejected.
+
+Daily meal allowance during business travel is 1,500 INR for domestic travel and 40 USD for international travel.
+
+Flights must be booked in economy class for journeys under 6 hours. Business class is allowed only for flights longer than 6 hours and requires VP approval.
+
+Original receipts are required for any expense above 500 INR. Claims are reimbursed within 10 working days of manager approval.
+
+A work-from-home internet allowance of 1,000 INR per month is paid to all employees on the hybrid schedule.
